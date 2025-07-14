@@ -1,0 +1,11 @@
+{
+  "event": "UFC Fight Night: July 19, 2025",
+  "fights": [
+    {"id":"f1","fighterA":"Sean O'Malley","fighterB":"Merab Dvalishvili","underdog":"Merab Dvalishvili"},
+    {"id":"f2","fighterA":"Tatiana Suarez","fighterB":"Mackenzie Dern","underdog":"Mackenzie Dern"},
+    {"id":"f3","fighterA":"Neil Magny","fighterB":"Ian Machado Garry","underdog":"Ian Machado Garry"},
+    {"id":"f4","fighterA":"Johnny Walker","fighterB":"Ion Cutelaba","underdog":"Ion Cutelaba"},
+    {"id":"f5","fighterA":"Kevin Holland","fighterB":"Michael Chiesa","underdog":"Kevin Holland"}
+  ],
+  "results": []
+}
