@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UFC Honor Picks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>UFC Honor Picks</h1>
+  <div id="login-section">
+    <input id="usernameInput" placeholder="Enter your name">
+    <button onclick="setUsername()">Start</button>
+  </div>
+  <div id="app-section" style="display:none;">
+    <h2 id="eventName"></h2>
+    <form id="picksForm"></form>
+    <button onclick="submitPicks()">Submit Picks</button>
+    <h3>Weekly Leaderboard</h3>
+    <ul id="weeklyBoard"></ul>
+    <h3>All-Time Leaderboard</h3>
+    <ul id="allTimeBoard"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
